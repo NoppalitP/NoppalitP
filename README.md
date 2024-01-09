@@ -3,7 +3,7 @@ Hi I'm Noppalit posritat![](https://user-images.githubusercontent.com/18350557/1
 
 I'm currently a second-year student studying Data Science at Silpakorn University.
 
-* 🧠  I'm learning data engineering
+
 
 ### Skills
 
