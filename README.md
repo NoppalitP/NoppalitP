@@ -22,7 +22,7 @@ This is a space to show off my projects.
 
 ### My project
  - [datasensor2database](https://github.com/NoppalitP/sensordata2database):fire:
- - [scrapingweatherdata2excel(https://github.com/NoppalitP/scrapingweather2excel)
+ - [scrapingweatherdata2excel](https://github.com/NoppalitP/scrapingweather2excel)
  - [Simple grouping system](https://github.com/NoppalitP/Simple-grouping-system)
-]ttps://github-readme-stats.vercel.app/api/top-langs/?username=NoppalitP&langs_count=10&title_color=64748b&text_color=64748b&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ttps://github-readme-stats.vercel.app/api/top-langs/?username=NoppalitP&langs_count=10&title_color=64748b&text_color=64748b&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
