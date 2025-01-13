@@ -18,8 +18,8 @@ Hi I'm Noppalit posritat![](https://user-images.githubusercontent.com/18350557/1
 
 
 ### My project
- - [datasensor2database](https://github.com/NoppalitP/sensordata2database):fire:
- - [scrapingweatherdata2excel](https://github.com/NoppalitP/scrapingweather2excel)
+ - [Leveraging WangchanBERTa for NLP-Driven Insights into Bangkok's Road Complaints via Traffy Fondue](https://github.com/NoppalitP/RoadVoice-BKK/tree/main):fire:
+ - Deep Learning-based Drum Sound Classification with ZCR and Spectral Centroid](https://github.com/NoppalitP/Classification_drum_sounds)
  - [Simple grouping system](https://github.com/NoppalitP/Simple-grouping-system)
  - [Bank Mangae System](https://github.com/NoppalitP/bank-manage-system)
 
