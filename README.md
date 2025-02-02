@@ -18,7 +18,7 @@ Hi I'm Noppalit Posritat![](https://user-images.githubusercontent.com/18350557/1
 
 
 ### My project
- - [Complaint Text Classification in Traffy Fondue Using Typhoon: A Thai LLM for Accurate Forwarding to Relevant Agencies](https://github.com/NoppalitP/Traffy-Fondue-text-classification):fire:
+ - [Complaint Text Classification in Traffy Fondue Using WangchanBERTa for Accurate Forwarding to Relevant Agencies](https://github.com/NoppalitP/Traffy-Fondue-text-classification):fire:
  - [Leveraging WangchanBERTa for NLP-Driven Insights into Bangkok's Road Complaints via Traffy Fondue](https://github.com/NoppalitP/RoadVoice-BKK/tree/main):fire:
  - [Deep Learning-based Drum Sound Classification with ZCR and Spectral Centroid](https://github.com/NoppalitP/Classification_drum_sounds)
  - [Simple grouping system](https://github.com/NoppalitP/Simple-grouping-system)
