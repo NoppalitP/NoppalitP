@@ -22,7 +22,7 @@ Hi I'm Noppalit Posritat![](https://user-images.githubusercontent.com/18350557/1
  - [Leveraging WangchanBERTa for NLP-Driven Insights into Bangkok's Road Complaints via Traffy Fondue](https://github.com/NoppalitP/RoadVoice-BKK/tree/main):fire:
  - [Deep Learning-based Drum Sound Classification with ZCR and Spectral Centroid](https://github.com/NoppalitP/Classification_drum_sounds)
  - [Simple grouping system](https://github.com/NoppalitP/Simple-grouping-system)
- - [Bank Mangae System](https://github.com/NoppalitP/bank-manage-system)
+ - [Evaluating the Effectiveness of Restaurant Responses to Customer Reviews Using Text Similarity and WangchanBERTa](https://github.com/NoppalitP/Analyzing-Review-Reply-Alignment-Using-WangchanBERTa-for-Thai-Food-Delivery-Applications)
 
 
 
